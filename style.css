@@ -1,0 +1,29 @@
+
+.container {
+    width: 500px;
+    flex-wrap: wrap;
+    display: flex;
+}
+
+.cell {
+    width: 24%;
+    height: 50px;
+    background-color: grey;
+    border: 1px solid black;
+}
+
+body {
+    position:absolute;
+    left:32%;
+    width:350px;
+    background-color: black;
+}
+
+h1 {
+  color: antiquewhite;
+  text-align: center;
+  font-family: cursive;
+  font-size: 80px;
+  padding-left: 40%;
+  padding-bottom: 1%;
+}
